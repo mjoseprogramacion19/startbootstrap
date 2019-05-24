@@ -1,0 +1,19 @@
+
+header.masthead{
+	background-image:url(../img/vuelofidji2.jpg);
+	
+}
+h1{
+	font-family: 'Arbutus', cursive;
+}
+.btn-primary {
+    background-color: purple;
+    border-color: #ee0979;
+}
+a .fab {
+	color:red;
+	background-color:white;
+	font-size:3em;
+	border-radius:50%;
+	padding:.3em;
+}
